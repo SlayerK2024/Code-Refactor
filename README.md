@@ -39,4 +39,4 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 Screenshoot:
 ![01-html-css-git-homework-demo](https://github.com/SlayerK2024/HoriseonChallenge1/assets/157855730/bf8b33b5-07ae-4b4c-806e-457d56c71844)
-Live Link: 
+Live Link: https://slayerk2024.github.io/Code-Refactor/
